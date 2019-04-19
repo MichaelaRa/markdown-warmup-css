@@ -1,18 +1,16 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(34, 34, 34);
     color: #000;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
     font-family: verdana;
     font-size: 20px;
   }
-
+  
+  h1 {
+    color: rgb(77, 77, 78);
+    text-align: center;
+  }
+  
+  
   ul 
   {
       list-style-type:circle;
