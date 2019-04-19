@@ -1,1 +1,19 @@
+body {
+    background-color: lightblue;
+    color: #000;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
 
+  ul 
+  {
+      list-style-type:circle;
+  }
